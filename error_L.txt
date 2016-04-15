@@ -1,0 +1,27 @@
+<head>
+<title> Elite Dragons Login </title>
+</head>
+
+<body bgcolor="#333333" text="white">
+
+<br>
+<center><img src="http://cs.mcgill.ca/~ahossa5/logo-white-transparent.png"></center>
+<br><br>
+
+<center><b>ERROR: </b> Sorry, login failed! Please choose the login or welcome page. </center>
+
+<br><br>
+
+<center>
+<form name="login" action="http://cgi.cs.mcgill.ca/~cvanei1/login.html" method="get">
+<input type="submit" value="Login Page"></div>
+</form>
+
+&nbsp&nbsp&nbsp
+
+<form name="welcome" action="http://cs.mcgill.ca/~ahossa5/welcome.html" method="get">
+<input type="submit" value="Welcome Page"></div>
+</form>
+</center>
+
+</body>

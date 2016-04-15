@@ -1,0 +1,21 @@
+<head>
+<title> Elite Dragons Login </title>
+</head>
+
+<body bgcolor="#333333" text="white">
+
+<br>
+<center><img src="http://cs.mcgill.ca/~ahossa5/logo-white-transparent.png"></center>
+<br><br>
+
+<center><b>SUCCESS! Click the button below to return to the login page and log in to your new account!!</b></center>
+
+<br><br>
+
+<center>
+<form name="success" action="http://cgi.cs.mcgill.ca/~cvanei1/login.html" method="get">
+<input type="submit" value="Login Page"></div>
+</form>
+</center>
+
+</body>
